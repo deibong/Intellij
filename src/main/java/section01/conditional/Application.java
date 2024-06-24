@@ -14,6 +14,10 @@ public class Application {
         A_if a = new A_if();
 
 //        a.testSimpleIfStatement();
-        a.testnestIfStatement();
+//        a.testnestIfStatement();
+
+        B_ifElse b = new B_ifElse();
+//      b.testSimpleIfElseStatement();
+        b.testNestedIfElseStatement();
     }
 }
